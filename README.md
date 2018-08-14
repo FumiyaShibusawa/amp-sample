@@ -15,3 +15,6 @@ $ git clone git@github.com:FumiyaShibusawa/amp-sample.git
 $ bundle install
 $ rails s
 ```
+
+# Access log
+![access-log-screenshot-chrome](https://user-images.githubusercontent.com/17764944/44097405-a4e85c8c-a018-11e8-9a35-509b176382e5.png)
